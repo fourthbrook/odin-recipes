@@ -1,0 +1,1 @@
+This is a recipes website completed during the coursework of the odin project. It will be an index with a few links to recipes.
